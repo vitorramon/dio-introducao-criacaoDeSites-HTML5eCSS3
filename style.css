@@ -1,0 +1,63 @@
+body {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, #subtitle, #posttitle {
+    color: black;
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration:solid;
+    color: brown;
+}
+
+#posttitle {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+#post {
+    background-color: white;
+    padding: 10px;
+    border: 3px solid gray;
+    margin-bottom: 15px;
+    border-radius: 5px 10px;
+}
+
+.image {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 100%;
+}
+
+.htmlcode {
+    margin-bottom: 15px;
+    width: 100%;
+
+}
+
+.postcontent{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+
+.linkedin {
+    list-style-image: url(/dio-introducao-criacaoDeSites-HTML5eCSS3/imagens/linkedin.png);
+}
+
+.github {
+    list-style-image: url(/dio-introducao-criacaoDeSites-HTML5eCSS3/imagens/github.png);
+}
