@@ -4,6 +4,6 @@ Fixação de conteúdo: HTML5 e CSS3
 
 ## Links úteis
 
-[Site para conseguir imagens gratuitas](https://unsplash.com)
-[Site para remover informações redundantes das imagens](https://tinypng.com)
-[Site para estudar propriedades do CSS](https://developer.mozilla.org/pt-BR/)
+[Site para conseguir imagens gratuitas](https://unsplash.com) <br>
+[Site para remover informações redundantes das imagens](https://tinypng.com) <br>
+[Site para estudar propriedades do CSS](https://developer.mozilla.org/pt-BR/) <br>
